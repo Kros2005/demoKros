@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "image": @"https://drive.google.com/file/d/12R4ItY9jxHSWeH_9sDkp-fCbUb2Vvzyu/view?usp=drive_link"
+    "image": "https://drive.google.com/file/d/12R4ItY9jxHSWeH_9sDkp-fCbUb2Vvzyu/view?usp=drive_link"
   }
   {
     "id": 2,
-    "image": @"https://drive.google.com/file/d/1R9DJT-kusGiwWgY1qO6ngUu6DvAhDKII/view?usp=drive_link"
+    "image": "https://drive.google.com/file/d/1R9DJT-kusGiwWgY1qO6ngUu6DvAhDKII/view?usp=drive_link"
   }
   {
     "id": 3,
-    "image": @"https://drive.google.com/file/d/1p1I2SYLOBxEBdICbtyQczJAfMv72qRku/view?usp=drive_link"
+    "image": "https://drive.google.com/file/d/1p1I2SYLOBxEBdICbtyQczJAfMv72qRku/view?usp=drive_link"
   }
 ]
